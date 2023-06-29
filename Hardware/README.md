@@ -14,3 +14,8 @@ Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a
   - Footprint added for an ESP-Wroom-32
 - BOM.ods
   - Sort of a manually created Bill of Materials
+
+  ## To be done
+
+  Need to work out how to add my custom symbols, footprints & 3D models in here...
+  
