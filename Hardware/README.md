@@ -8,6 +8,8 @@ Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a
   - The base design with no module set up
 - 0.5.2 (standalone)
   - A version with a pin header instead of a module
+- 0.5.2 (ESP-M3)
+  - Footprint added for an ESP-M3
 - 0.5.2 (ESP12)
   - Footprint added for an ESP-12 (or ESP-07)
 - 0.5.2 (Wroom32)
