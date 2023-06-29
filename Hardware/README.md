@@ -4,15 +4,19 @@ Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a
 
 ## The various "editions"...
 
-- 0.5.2 (blank)
+- (blank)
   - The base design with no module set up
-- 0.5.2 (standalone)
+- (standalone)
   - A version with a pin header instead of a module
-- 0.5.2 (ESP-M3)
+- ESP-01F
+  - Footprint added for an ESP-01F
+- ESP-01S
+  - Footprint added for an ESP-01S
+- ESP-M3
   - Footprint added for an ESP-M3
-- 0.5.2 (ESP12)
+- ESP-12
   - Footprint added for an ESP-12 (or ESP-07)
-- 0.5.2 (Wroom32)
+- ESP-Wroom-32
   - Footprint added for an ESP-Wroom-32
 - BOM.ods
   - Sort of a manually created Bill of Materials
