@@ -641,7 +641,7 @@
         bc00d94d-1f25-4e8f-896b-3820b6eebdb5
       )
     )
-    (model "../(KiCAD Customs)/3D/ESP8266/ESP-01Fa.STEP" hide
+    (model "../(KiCAD Customs)/3D/ESP8266/ESP-01Fa.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))

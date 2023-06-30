@@ -1,0 +1,18 @@
+(footprint "banana-0" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 63142A17)
+  (attr smd)
+  (fp_text reference "REF**" (at -0.635 -6.175 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a3299ab5-3dc3-46bd-84ec-03bef122851b)
+  )
+  (fp_text value "banana-0" (at -0.635 -4.675 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1c359650-9720-4ff5-b7eb-b9ba37db5887)
+  )
+  (fp_arc (start -1.663409 -0.733208) (mid -1.174287 -0.900982) (end -0.838201 -0.507999) (layer "F.SilkS") (width 0.1778) (tstamp 17098c05-120b-4c15-a9f9-a4e0435f054e))
+  (fp_arc (start -0.964185 1.597277) (mid -1.006545 -0.305949) (end 0.635 -1.27) (layer "F.SilkS") (width 0.1778) (tstamp 29d500f1-ab11-4cec-89f1-70874013a948))
+  (fp_arc (start -0.972013 1.462579) (mid -1.173022 0.463607) (end -0.736599 -0.457199) (layer "F.SilkS") (width 0.1778) (tstamp 46ce31c6-8704-46a1-97b4-c6d8d230bf1d))
+  (fp_arc (start -0.889 -0.507999) (mid -0.495637 -0.444165) (end -0.431801 -0.050801) (layer "F.SilkS") (width 0.1778) (tstamp 91f387ca-5997-4c7b-8543-c90b38e86bbf))
+  (fp_arc (start -1.089851 1.671546) (mid -1.375016 0.532141) (end -0.939799 -0.558799) (layer "F.SilkS") (width 0.1778) (tstamp f1947ee0-77b1-435f-8b1e-2b34060567a8))
+)

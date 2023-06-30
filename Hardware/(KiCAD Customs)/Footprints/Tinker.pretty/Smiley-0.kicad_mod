@@ -1,0 +1,17 @@
+(footprint "Smiley-0" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 63142955)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -5.54 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3c407d2e-acb4-4954-aa89-953b5bf32219)
+  )
+  (fp_text value "Smiley-0" (at 0 -4.04 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ff59047d-9aad-4a3c-9067-1daab615996e)
+  )
+  (fp_arc (start 0.6858 0.381002) (mid 0.635 0.635) (end 0.381002 0.5842) (layer "F.SilkS") (width 0.1778) (tstamp 36aa1fd7-b18f-4274-a6ae-63297517b6bc))
+  (fp_arc (start 0.649303 -0.038857) (mid -0.070046 0.701684) (end -0.685798 -0.126998) (layer "F.SilkS") (width 0.1778) (tstamp 81702a78-7d0f-4d80-a531-635ca2b9b5c4))
+  (fp_circle (center -0.482599 -0.685799) (end -0.685799 -0.533399) (layer "F.SilkS") (width 0.1778) (fill none) (tstamp c2de7d31-8990-4253-895f-7075df5cf968))
+  (fp_circle (center 0.431801 -0.685799) (end 0.228601 -0.533399) (layer "F.SilkS") (width 0.1778) (fill none) (tstamp fa57705f-3f48-4b59-8a34-249eed8b27e0))
+)

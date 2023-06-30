@@ -1,0 +1,17 @@
+(footprint "Mount" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 5.08 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fe33352d-c0c6-4a79-bf5a-fcf3db3e69db)
+  )
+  (fp_text value "Mount" (at 0 6.58 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c8e1d595-24b7-4898-98f7-ca270746bbe6)
+  )
+  (fp_circle (center 0 0) (end 2.54 0) (layer "F.SilkS") (width 0.15) (fill none) (tstamp 5ea607c8-06af-406b-81c6-e7621a1d41cd))
+  (fp_circle (center 0 0) (end 2.75 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 244310bc-200d-47c1-8778-6e02f028eb96))
+  (fp_circle (center 0 0) (end 2.8 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 1f827f72-88bf-461c-99aa-7a7d3fdd4ad9))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Mask) (tstamp 6ca262d2-971a-4582-9ed9-daef32178e34))
+)
