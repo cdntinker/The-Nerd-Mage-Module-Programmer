@@ -6,6 +6,25 @@ Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a
   - Custom symbols, footprints, 3D models needed for this project
     - (Just the 3D models so far...)
 
+## Notes about the boards common design
+
+### The LEDs:
+- D1
+  - indicates power to the board (From USB...)
+- D1
+  - Indicates power to the module being programmed
+
+### The switches:
+- SW1 (pushbutton)
+  - Pulls the reset line of the module low
+- SW2 (slider)
+  - Switches on/off power to the module
+
+### The "Base Plate" board:
+The flexyPins used for connecting the modules require space under the board.
+
+So...  The base plate, along with 6 3mmx4mm spacers & 12 of the shortest available 3mm machine screws provide this space & protect the FlexyPins.
+
 ## The various "editions"...
 
 - (blank)
