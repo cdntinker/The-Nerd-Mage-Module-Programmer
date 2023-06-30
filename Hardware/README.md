@@ -2,6 +2,10 @@
 
 Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a lot of duplication here.  One of these days, I'll figure out how to make KiCAD re-use existing schematics & board files as "libraries".
 
+- (KiCAD Customs)
+  - Custom symbols, footprints, 3D models needed for this project
+    - (Just the 3D models so far...)
+
 ## The various "editions"...
 
 - (blank)
