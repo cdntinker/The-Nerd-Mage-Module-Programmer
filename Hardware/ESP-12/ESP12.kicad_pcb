@@ -4096,132 +4096,132 @@
         )
       )
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/ESP8266/ESP-12F.step" hide
+    (model "../(KiCAD Customs)/3D/ESP8266/ESP-12F.step" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/ESP8266/ESP07.STEP" hide
+    (model "../(KiCAD Customs)/3D/ESP8266/ESP07.STEP" hide
       (offset (xyz -0.5 -2.25 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -9.515 3.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -9.515 1.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -9.515 -0.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -9.515 -2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -9.515 -4.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -9.515 -6.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -9.515 -8.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -9.515 -10.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.515 -10.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz 9.515 -8.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz 9.515 -6.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.515 -4.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz 9.515 -2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz 9.515 -0.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.515 1.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.515 3.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/ESP8266/esp-07s.stp" hide
+    (model "../(KiCAD Customs)/3D/ESP8266/esp-07s.stp" hide
       (offset (xyz -8 3.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/ESP8266/esp-07s.wrl" hide
+    (model "../(KiCAD Customs)/3D/ESP8266/esp-07s.wrl" hide
       (offset (xyz -8 3.5 0))
       (scale (xyz 10 10 10))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -5 -13.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -3 -13.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz -1 -13.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz 1 -13.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step" hide
+    (model "../(KiCAD Customs)/3D/flexypin.step" hide
       (offset (xyz 3 -13.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 5 -13.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))

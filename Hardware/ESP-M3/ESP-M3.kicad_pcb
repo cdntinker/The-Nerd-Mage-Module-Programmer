@@ -588,67 +588,67 @@
         )
       )
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/ESP8266/ESP-M3.stp"
+    (model "../(KiCAD Customs)/3D/ESP8266/ESP-M3.stp"
       (offset (xyz 0 -2.25 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -9.5 1 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -9.5 -1.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -9.5 -4 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -6.35 -11.9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -3.81 -11.9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz -1.27 -11.9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 1.27 -11.9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 3.81 -11.9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 6.35 -11.9 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.5 -4 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.5 -1.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
     )
-    (model "/home/tinker/Documents/Projects/KiCad Customs/3D/flexypin.step"
+    (model "../(KiCAD Customs)/3D/flexypin.step"
       (offset (xyz 9.5 1 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -180))
