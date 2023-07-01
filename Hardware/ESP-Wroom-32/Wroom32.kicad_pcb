@@ -4405,7 +4405,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "../(KiCAD Customs)/3D/ESP32/ESP-32 .step"
+    (model "../(KiCAD Customs)/3D/ESP32/ESP-32 .step" hide
       (offset (xyz 0 3 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6987,6 +6987,9 @@
   )
   (gr_text "POWER" (at 140.509453 101.121199 270) (layer "F.SilkS") (tstamp 28bfe5b4-936c-441e-a37d-19ed18d51d6b)
     (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "Yup...\nSeems it'll work for the\nESP32-S3-Wroom-1\nalso..." (at 150.033236 83.948286) (layer "F.SilkS") (tstamp 39d2d29e-00f0-4827-b02a-286b9def186e)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
   (gr_text "(If you can read this...\nYou forgot to assemble\nyour programmer.)" (at 185.56 110.16) (layer "F.SilkS") (tstamp 66317de1-2486-43e5-a59a-dcac3dc97597)
     (effects (font (size 0.5 0.5) (thickness 0.125)))

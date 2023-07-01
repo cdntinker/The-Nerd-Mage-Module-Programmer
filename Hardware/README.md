@@ -8,6 +8,13 @@ Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a
 
 ## Notes about the boards common design
 
+### The __reset / io0__ circuit
+Transistors Q1 & Q2 are a bright idea stolen blatantly from the schematic of the Wemos D1-mini.  Basically, they cause io0 to be held low during a reset called for programatically.
+
+So...  You can treat these programmers as nodemcu boards.
+
+- In platformio.ini:
+  - `upload_resetmethod = nodemcu`
 ### The LEDs:
 - D1
   - indicates power to the board (From USB...)
