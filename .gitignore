@@ -7,3 +7,5 @@ sym-lib-table
 
 Hardware/*/*-backups/
 
+_autosave*
+#auto_saved_files#
