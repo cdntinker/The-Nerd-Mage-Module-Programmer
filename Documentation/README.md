@@ -27,7 +27,7 @@ R3 & R4 are there to ensure that, if your USB port on the computer is USB-C, the
 ### The LEDs:
 - D1
   - indicates power to the board (From USB...)
-- D1
+- D2
   - Indicates power to the module being programmed
 
 ### The switches:
