@@ -23,6 +23,9 @@ Each of the subfolders here is basically a KiCAD project.  Yes, I know there's a
   - Footprint added for an ESP-12 (or ESP-07)
 - ESP-Wroom-32
   - Footprint added for an ESP-Wroom-32
+- Seeed Wio-RP2040
+  - This one is VERY MUCH a WIP
+  - Building & adding a footprint for the Seeed Studios Wio-RP2040 module
 - BOM.ods
   - Sort of a manually created Bill of Materials
 
