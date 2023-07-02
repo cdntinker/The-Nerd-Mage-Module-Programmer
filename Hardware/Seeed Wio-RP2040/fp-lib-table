@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Untitled Folder")(type "KiCad")(uri "/home/tinker/Documents/Projects/The-Nerd-Mage-Module-Programmer/Hardware/(KiCAD Customs)/Footprints/Tinker.pretty/Untitled Folder")(options "")(descr ""))
+  (lib (name "Tinker")(type "KiCad")(uri "/home/tinker/Documents/Projects/The-Nerd-Mage-Module-Programmer/Hardware/(KiCAD Customs)/Footprints/Tinker.pretty")(options "")(descr ""))
+)
