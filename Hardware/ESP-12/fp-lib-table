@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Rabbit")(type "KiCad")(uri "/home/tinker/Documents/GIT/The-Nerd-Mage-Module-Programmer/Hardware/(KiCAD Customs)/Footprints/Rabbit.pretty")(options "")(descr ""))
+  (lib (name "FlexyPin")(type "KiCad")(uri "/home/tinker/Documents/GIT/The-Nerd-Mage-Module-Programmer/Hardware/(KiCAD Customs)/Footprints/FlexyPin.pretty")(options "")(descr ""))
+  (lib (name "Tinker")(type "KiCad")(uri "/home/tinker/Documents/GIT/The-Nerd-Mage-Module-Programmer/Hardware/(KiCAD Customs)/Footprints/Tinker.pretty")(options "")(descr ""))
+)

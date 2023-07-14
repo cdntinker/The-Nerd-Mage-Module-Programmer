@@ -80,7 +80,7 @@
   (pad "1" thru_hole rect (at -3.81 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp b0cf198f-f869-48a2-b34a-6504d6ed2274))
   (pad "2" thru_hole oval (at 3.81 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 1ee0437b-f482-41c3-a3fc-6ec870640c21))
   (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile.wrl"
-    (offset (xyz 0 0 0))
+    (offset (xyz -3.75 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
