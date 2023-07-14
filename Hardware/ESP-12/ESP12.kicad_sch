@@ -7,7 +7,7 @@
   (title_block
     (title "The Nerd Mage Module Programmer")
     (date "2023-07-13")
-    (rev "1.0.?")
+    (rev "1.0.0")
     (company "S. A. Miller")
     (comment 1 "ESP-12/07 Edition")
   )

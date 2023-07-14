@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.11+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2023-07-13T21:31:00-04:00"
+    "CreationDate": "2023-07-14T01:26:02-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "ESP12",
       "GUID": "45535031-322e-46b6-9963-61645f706362",
-      "Revision": "rev?"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 71.386,

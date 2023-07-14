@@ -8,7 +8,7 @@
   (title_block
     (title "The Nerd Mage Module Programmer")
     (date "2023-07-13")
-    (rev "1.0.?")
+    (rev "1.0.0")
     (company "S. A. Miller")
     (comment 1 "ESP-12/07 Edition")
   )
@@ -6952,7 +6952,7 @@
   (gr_text "You can put sticky stuff here.\nOr even, if you really feel like it,\ndrill holes through this part.\n(I'd suggest verifying that the fasteners going\nthrough those holes have heads that don't stick\nup far enough to interfere with stuff...)" (at 186.015484 94.098306 90) (layer "B.SilkS") (tstamp 68ac2926-bb4f-4c7c-a0c4-d60fefd03b26)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "(v1.0.?)" (at 150 101.997455) (layer "B.SilkS") (tstamp 9eb01ee0-42f5-4de5-8534-717b402c62fa)
+  (gr_text "(v1.0.0)" (at 150 101.997455) (layer "B.SilkS") (tstamp 9eb01ee0-42f5-4de5-8534-717b402c62fa)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "MOD POWER" (at 150 94) (layer "F.SilkS") (tstamp 28bfe5b4-936c-441e-a37d-19ed18d51d6b)
