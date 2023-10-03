@@ -9,7 +9,7 @@
     (date "2023-07-13")
     (rev "1.0.0")
     (company "S. A. Miller")
-    (comment 1 "ESP-12/07 Edition")
+    (comment 1 "Pop-In RP2040 Edition")
   )
 
   (lib_symbols
@@ -1701,10 +1701,6 @@
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 1f5f0942-7501-4fb6-80a7-8a12b7bcd5a5)
   )
-  (text "100K" (at 215.9 48.26 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2e7a9882-97dd-4dfe-98fe-a7fe42b43d24)
-  )
   (text "USB" (at 19.05 26.67 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 66cc5d10-7a9b-44e6-ac5e-d24ba65e3e87)
@@ -1721,9 +1717,10 @@
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 9fbf9700-1a9b-4856-8edc-a5d4a466afce)
   )
-  (text "10K" (at 214.63 77.47 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid d50d5801-5dcb-4a4f-8e21-a4c60a0cc3e4)
+  (text "This is not\nactually valid\nin ANY way.\n\nIt is a placeholder."
+    (at 58.42 153.67 0)
+    (effects (font (size 12.7 12.7) (thickness 2.54) bold italic) (justify left bottom))
+    (uuid a04194fe-ac5d-44fc-958d-01e34e5115e8)
   )
   (text "RxD" (at 250.19 36.83 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
